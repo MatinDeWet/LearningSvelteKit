@@ -1,1 +1,0 @@
-<h2>General settings</h2>
